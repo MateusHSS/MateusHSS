@@ -1,19 +1,18 @@
 Olá ✌️
 
-Me chamo Mateus, sou formado no curso técnico em informática pelo CEFET-MG Campus V, atualmente estou cursando o 2º período de Ciência da computação na UFMG. Sou apaixonado por desenvolvimento web e tenho me especializado no back end de aplicações. Desenvolvi alguns projetos como desenvolvedor full stack, a fim de conhecer também o front end.
+Me chamo Mateus, sou formado no curso técnico em informática pelo CEFET-MG Campus V, estou cursando o 3º período de Ciência da computação na UFMG. Sou apaixonado por desenvolvimento web e tenho me especializado no back end de aplicações. Desenvolvi alguns projetos como desenvolvedor full stack, a fim de conhecer também o front end.
 
-Atualmente estou estudando criação de API's rest e restful com NodeJS, AdonisJS e Typescript, utilizando o banco de dados SQL MySQL. Procuro vaga de estágio na área (NodeJS) para me aprofundar no assunto e ganhar experiência de mercado.
+Atualmente sou desenvolvedor web fullstack na PD Case Informática Ltda, focado em Javascript com Angular, VueJs e Node.
 
 ### Áreas de interesse ⁉️:
 * HTML5
 * CSS3
 * JavaScript
-  * Jquery
   * NodeJS
   * Typescript
   * AdonisJS
-* PHP
-  * Laravel
+  * Angular
+  * VueJs
 * SQL
   * MySQL
 
@@ -22,6 +21,7 @@ Atualmente estou estudando criação de API's rest e restful com NodeJS, AdonisJ
 * MySQL Workbench
 * XAMPP
 * Insomnia
+* DBeaver
 
 ### Contatos:
 - ✉️: mateus55henrique@hotmail.com
