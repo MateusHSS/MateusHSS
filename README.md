@@ -1,31 +1,55 @@
-Olá ✌️
+### Olá, bem vindo ao meu perfil ✌️
 
-Me chamo Mateus, sou formado no curso técnico em informática pelo CEFET-MG Campus V, estou cursando o 3º período de Ciência da computação na UFMG. Sou apaixonado por desenvolvimento web e tenho me especializado no back end de aplicações. Desenvolvi alguns projetos como desenvolvedor full stack, a fim de conhecer também o front end.
+<br>
 
-Atualmente sou desenvolvedor web fullstack na PD Case Informática Ltda, focado em Javascript com Angular, VueJs e Node.
+Sou desenvolvedor fullstack atualmente trabalhando com Node.js e Vue.js, formado no curso técnico em informática pelo CEFET-MG e graduando em Sistemas de Informação pela UFMG.
 
-### Áreas de interesse ⁉️:
-* HTML5
-* CSS3
-* JavaScript
-  * NodeJS
-  * Typescript
-  * AdonisJS
-  * Angular
-  * VueJs
-* SQL
-  * MySQL
+<br><br>
 
-### Ferramentas 🔧:
-* VSCode
-* MySQL Workbench
-* XAMPP
-* Insomnia
-* DBeaver
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MateusHSS&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHSS&theme=tokyonight&layout=compact" />
+  </a>
+</div>
 
-### Contatos:
-- ✉️: mateus55henrique@hotmail.com
-- 📝: https://www.linkedin.com/in/mateus-henrique-b4bab6205/
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=MateusHSS&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)" />
+</a>
+<br> <br>
+
+### Techs:
+- HTML5
+- CSS3
+- JavaScript
+- JQuery
+- TypeScript
+- Node.js
+- Vue.js
+- PHP
+- MySQL
+- MongoDB
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,jquery,ts,nodejs,vuejs,php,mysql,mongodb)](https://skills.thijs.gg)
+
+<br> <br><br>
+
+<div>
+  <a href="mailto:dev.mateushssilva@gmail.com">
+    <img src="https://img.shields.io/badge/dev.mateushssilva@gmail.com-D14836?logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/mateus-henrique-b4bab6205/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://www.instagram.com/mateushssilva/">
+    <img src="https://img.shields.io/badge/mateushssilva-%23E4405F.svg?logo=Instagram&logoColor=white">
+  </a>
+</div>
 
 <!--
 **MateusHSS/MateusHSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
